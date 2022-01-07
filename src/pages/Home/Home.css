@@ -1,0 +1,37 @@
+
+.features4-block{
+    /* height: 200px */
+}
+.features4-block .container{
+    position: relative
+}
+/* .title-content1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+} */
+.hny-title1{
+    text-shadow: 1px 1px 10px #000;
+    font-weight: 400;
+    letter-spacing: 1px !important;
+}
+
+.w3l-content-with-photo-4{
+    margin-top: 0px !important
+}
+.container1{
+    height: 30px;box-shadow: 0px 0px 5px 1px rgba(58, 18, 18, 0.2);
+}
+
+.sub-title{
+    color: #3c393b;
+    text-align: justify;
+    font-size: 11pt !important;
+}
+
+.story-6-grids1{
+    box-shadow: 0px 0px 5px 1px rgba(58, 18, 18, 0.1)
+}
